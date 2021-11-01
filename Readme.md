@@ -2,11 +2,11 @@ The goal of the cli.py is to extract currency exchange rates through an api and 
 
 Installation
 
-Pip install exrateshistory
+Pip install exch
 
 
 Basic Usage
 
-exrateshistory  --start 2021-02-01 --end 2021-02-02 --base USD --symbol EUR CAD
+exch  --start 2021-02-01 --end 2021-02-02 --base USD --symbol EUR CAD
 
 
