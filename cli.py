@@ -1,12 +1,9 @@
 #!/usr/bin/env python3
 
 """"
-exch
+exchange rates using click 
 =====
 
-A CLI application built using python to see currency exchange rates.
-
-:copyright: (c) 2017 by Anshul Chauhan
 """
 
 import json
