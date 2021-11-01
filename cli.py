@@ -9,7 +9,7 @@ import json
 import click
 import pkg_resources
 
-ef fixer(base, target, value, file_path):
+def fixer(base, target, value, file_path):
     """
     get currency exchange rate from fixer.io in JSON,
     take note that all the rates are stored as EUR as base
